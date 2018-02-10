@@ -8,6 +8,6 @@ def get_roots(a, b, c):
         return root1, root2
     elif discriminant == 0:
         root = (-b) / (2 * a)
-	return root, None
+        return root, None
     else:
         return None, None
