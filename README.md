@@ -9,9 +9,10 @@
 # Как запустить
 
 Пример:
+'''python
 from quadratic_equation import get_roots
 result1, result2 = get_roots(a, b, c)
-
+'''
 Скрипт требует для своей работы установленного интерпретатора Python версии 3.5
 
 Запуск на Linux:
